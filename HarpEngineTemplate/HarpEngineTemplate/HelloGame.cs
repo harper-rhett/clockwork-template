@@ -14,6 +14,7 @@ internal class HelloGame : Game
 		Instance = this;
 
 		Window.SetResizable(true);
+		Window.SetFullRenderer(Colors.DarkGray);
 
 		activeScene = new MenuScene();
 	}
