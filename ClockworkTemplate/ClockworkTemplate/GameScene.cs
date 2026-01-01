@@ -1,5 +1,5 @@
-﻿using HarpEngine;
-using HarpEngine.Utilities;
+﻿using Clockwork;
+using Clockwork.Utilities;
 
 // Entity creation and scene properties live here
 

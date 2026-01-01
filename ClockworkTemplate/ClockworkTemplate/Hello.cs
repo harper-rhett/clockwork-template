@@ -1,6 +1,6 @@
-﻿using HarpEngine;
-using HarpEngine.Graphics;
-using HarpEngine.Utilities;
+﻿using Clockwork;
+using Clockwork.Graphics;
+using Clockwork.Utilities;
 using System.Numerics;
 
 // Entity control and properties live here
